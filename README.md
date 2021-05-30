@@ -1,2 +1,2 @@
 # FoodSale_Forecast
-Predict the sales of food itens thought several stores.
+Predict the sales of food items thought several stores.
