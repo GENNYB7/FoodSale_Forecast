@@ -18,8 +18,10 @@ We can see which categories generates the highest sales by Store Tier.
 
 Observing the numerical correlations trends, Item visibility has really low impat on sales totals and 
 it has relative correlation with item's list price.
+Recommendations are to rotate items and move high ticket items closer to most popular iles.
 
-Location and size of the store has the largest impact on sales. and the higher positive correlation.
+Location and size of the store has the largest impact on sales and the higher positive correlation.
+Medium size stores Tier 3 seems to do best overall.
 
 Arrange data for ML.
 
